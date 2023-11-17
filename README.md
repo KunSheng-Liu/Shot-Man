@@ -1,5 +1,5 @@
 # Shot-Man
-It's a small game project should work under the Windows-XP system.
+本專案於 MS-DOS 上透過組合語言掃描滑鼠輸入所設計的命中率測試小遊戲。並會根據遊戲流程繪出對應畫面。
 
 ## 規則
 * 螢幕上會再隨機位置出現小人，移動游標瞄準小人後按下左鍵後即可發射。若命中則得分加一，反之則失誤加一。
